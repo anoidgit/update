@@ -4,6 +4,7 @@ sudo luarocks install threads
 sudo luarocks install sundown
 sudo luarocks install cwrap
 sudo luarocks install paths
+sudo luarocks install graphicsmagick
 sudo luarocks install torch
 sudo luarocks install nn
 sudo luarocks install nnx
